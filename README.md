@@ -1,4 +1,4 @@
-# Sandbox
+# sandbox-py
 
 ## License
 
